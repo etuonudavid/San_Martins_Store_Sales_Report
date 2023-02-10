@@ -7,7 +7,7 @@ This is a report of the sales San Martin's store. It consists of two page report
 
 **Tool Used**
 - Microsoft Power Bi - for charts
-- PowerPoint - for backgroound design.
+- PowerPoint - for background design.
 
 download and interact with the report
 
